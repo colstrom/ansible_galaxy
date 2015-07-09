@@ -4,6 +4,7 @@ source "http://rubygems.org"
 #   gem "activesupport", ">= 2.3.5"
 
 gem 'contracts', '~> 0.10'
+gem 'terminal-announce', '~> 1.0.0'
 gem 'typhoeus', '~> 0.7.0'
 
 # Add dependencies to develop your gem here.
