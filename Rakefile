@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "ansible_galaxy"
   gem.homepage = "http://github.com/colstrom/ansible_galaxy"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Ruby wrapper for the Ansible Galaxy HTTP API}
+  gem.description = %Q{Provides convenient access to the Galaxy API}
   gem.email = "chris@olstrom.com"
   gem.authors = ["Chris Olstrom"]
   # dependencies defined in Gemfile
