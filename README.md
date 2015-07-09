@@ -1,9 +1,9 @@
 = ansible_galaxy
 
-Description goes here.
+Ruby Wrapper for the Ansible Galaxy HTTP API
 
 == Contributing to ansible_galaxy
- 
+
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
 * Fork the project.
