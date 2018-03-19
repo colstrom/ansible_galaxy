@@ -1,0 +1,13 @@
+#+TITLE: ansible_galaxy
+#+LATEX: \pagebreak
+
+Ruby Wrapper for the Ansible Galaxy HTTP API
+
+* License
+
+  ~ansible_galaxy~ is available under the [[https://tldrlegal.com/license/mit-license][MIT License]]. See ~LICENSE.txt~ for the
+  full text.
+
+* Contributors
+
+  - [[https://colstrom.github.io/][Chris Olstrom]] | [[mailto:chris@olstrom.com][e-mail]] | [[https://twitter.com/ChrisOlstrom][Twitter]]
